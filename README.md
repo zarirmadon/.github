@@ -2,6 +2,9 @@ Support free, open-source Android apps, Linux apps, GIMP plugins, G'MIC filters,
 
 
 
+
+
+
 [![Support via Stripe](https://img.shields.io/badge/Stripe-Support-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/9B6eV51MB2ps01ybF90Fi00)
 
 
